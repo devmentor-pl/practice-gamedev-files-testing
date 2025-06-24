@@ -6,7 +6,7 @@
 
 ## Ćwiczenia z testami jednostkowymi
 Do tej pory, każde ćwiczenie zawierało oddzielny projekt, aby odseparować kod poszczególnych ćwiczeń i umożliwić łatwe uruchamianie.
-Ćwiczenia korzystające z testów jednostkowych będą zawierały dodatkowe projekty testowe. Np. ćwiczenie 02 ma projekt 02 oraz 02_Test.
+Ćwiczenia korzystające z testów jednostkowych będą zawierały dodatkowe projekty testowe. Np. ćwiczenie 2 ma projekt `02` oraz `02_Test`.
 
 ## Notatnik
 Zaimplementuj prosty notatnik. Powinien zawierać następujące funkcjonalności:

@@ -4,7 +4,7 @@
 
 # `#03` GameDev: Pliki i Testowanie
 
-## System informacji o pracownikach
+## System informacji o pracownikach - część I
 Zaimplementuj ogólną strukturę aplikacji przechowującej dane o pracownikach firmy:
 1. Klasa `Employee`, która zawiera informacje o imieniu i nazwisku, płci, roku urodzenia oraz wynagrodzeniu
 2. Klasa `Department`, która zawiera nazwę oraz referencje do pracowników z danego działu

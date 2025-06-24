@@ -10,8 +10,7 @@ Twoim zadaniem jest zaimplementowanie testów jednostkowych:
 1. Przetestuj, czy przy stworzeniu wielu obiektów na raz, każdy z nich ma unikalne Id;
 2. Przetestuj, czy parametry podane w konstruktorze są prawidłowo przypisane do właściwości;
 3. Przetestuj poprawność logiki obliczania ceny nieruchomości dla każdego jej typu (Land, House, Apartment), posługując się trzema zestawami parametrów dla każdego z nich;
-4. Zaimplementuj metodę proceduralnego generowania setek przypadków do testowania logiki obliczania ceny nieruchomości
-5. 
+4. Zaimplementuj metodę proceduralnego generowania setek przypadków do testowania logiki obliczania ceny nieruchomości;
 
 
 &nbsp;
