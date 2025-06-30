@@ -15,7 +15,6 @@ To ćwiczenie jest kontynuacją ćwiczenia `System informacji o pracownikach - c
    - Metody testowe powinny operować na interfejsie `IRepository<T>`, nie powinny bezpośrednio się odwoływać do konkretnej implementacji;
    - Wykorzystaj metodę z atrybutem `SetUp`, aby zainicjować repozytorium i zapełnić je danymi przed każdym testem;
    - Wykorzystaj metodę z atrybutem `TearDown`, aby wyczyścić wszystkie dane przechowywane w repozytorium po wykonanym teście;
-   - 
 &nbsp;
 
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-gamedev-files-testing)*
